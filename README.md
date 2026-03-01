@@ -38,6 +38,9 @@ This repo reflects **clean code, optimal approaches, and disciplined daily pract
 | Merge Sorted Array | 88 | ✅ Solved |
 | Move Zeroes | 283 | ✅ Solved |
 | Reverse String | 344 | ✅ Solved |
+| Single Number | 136 | ✅ Solved |
+| Missing Number | 268 | ✅ Solved |
+| Most COnsecutive Ones | 485 | ✅ Solved |
 
 ---
 
@@ -46,6 +49,8 @@ This repo reflects **clean code, optimal approaches, and disciplined daily pract
 | Problem | LeetCode # | Status |
 |------|-----------|--------|
 | Sort Array | 928 | ✅ Solved |
+| Palindrome Number | 09 | ✅ Solved |
+| SecondLargest Integer In String | 1796 | ✅ Solved |
 
 ---
 
